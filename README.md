@@ -8,7 +8,7 @@ MQTT broker latency measure tool
 安装:
 
 ```
-go get github.com/hui6075/mqtt-bm-latency
+go install github.com/jforge/mqtt-bm-latency@latest
 ```
 
 所有依赖包由[manul](https://github.com/kovetskiy/manul)构建。
@@ -20,7 +20,7 @@ Some other measurement include publish success ratio, publish bandwidth, forward
 Installation:
 
 ```
-go get github.com/hui6075/mqtt-bm-latency
+go install github.com/jforge/mqtt-bm-latency@latest
 ```
 
 All dependencies are vendored with [manul](https://github.com/kovetskiy/manul).
